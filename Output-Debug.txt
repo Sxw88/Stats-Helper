@@ -1,0 +1,48 @@
+﻿'Stats-Helper.exe' (Win32): Loaded 'C:\Users\User\source\repos\Stats-Helper\x64\Debug\Stats-Helper.exe'. Symbols loaded.
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\uxtheme.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\ProgramData\A-Volute\A-Volute.Nahimic\Modules\Scheduled\x64\AudioDevProps2.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\advapi32.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\ws2_32.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\shlwapi.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\shell32.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\msctf.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\oleaut32.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\TextShaping.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_60b5254171f9507e\comctl32.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\SHCore.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\bcryptprimitives.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\TextInputFramework.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\CoreMessaging.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\CoreUIComponents.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\ntmarta.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. 
+'Stats-Helper.exe' (Win32): Unloaded 'C:\Windows\System32\WinTypes.dll'
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. 
+'Stats-Helper.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. 
+'Stats-Helper.exe' (Win32): Unloaded 'C:\Windows\System32\WinTypes.dll'
+The thread 0x1a28 has exited with code 0 (0x0).
+The thread 0x428 has exited with code 0 (0x0).
+The thread 0x3710 has exited with code 0 (0x0).
+The thread 0x998 has exited with code 0 (0x0).
+The thread 0x37b0 has exited with code 0 (0x0).
+The program '[15044] Stats-Helper.exe' has exited with code 0 (0x0).
